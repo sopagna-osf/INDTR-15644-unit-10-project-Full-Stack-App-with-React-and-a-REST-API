@@ -1,1 +1,2 @@
-# INDTR-15644-unit-10-project-Full-Stack-App-with-React-and-a-REST-API
+##  Unit 10 - Full Stack App with React and a REST API
+This project allows the user to administer a school database containing information about courses. This project use React to create client side the for REST API which is built using NodeJs. 
